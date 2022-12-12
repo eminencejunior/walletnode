@@ -22,6 +22,7 @@ header {
     padding-top: 40px;
     position: fixed;
     top:0;
+    display: block;
     background-color: white;
     padding-bottom: 20px;
 }
@@ -34,7 +35,7 @@ header {
 }
 h1 {
     margin-left: 30px;
-    margin-top: 40px;
+    margin-top: 90px;
     font-family: 'Montserrat', sans-serif;
     width: 90px;
 }
@@ -57,3 +58,35 @@ h2 {
 .par {
     font-family: 'Montserrat', sans-serif;
 }
+nav a {
+    line-height: 40px;
+    color: darkblue;
+    border-bottom: 1px solid rgb(226, 222, 222);
+    text-decoration: none;
+    border-radius: 5px;
+}
+span svg {
+   float: right;
+   display: flex;
+   line-height: 40px;
+   margin-left: 80px;
+}
+nav {
+   position: absolute;
+   margin-top: 30px;
+   display: none;
+   flex-direction: column;
+   padding: 5px;
+   background-color: white;
+   width: 95%;
+   font-weight: bold;
+}
+.mobile {
+   display: flex;
+}
+.gear {
+    padding-left: 40%;
+    font-size: 40px;
+}
+
+
