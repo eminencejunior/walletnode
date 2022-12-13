@@ -190,9 +190,11 @@ nav {
     text-decoration: none; 
 }
 .star {
-    width: 90px;
-    backgroubd-color: darkblue;
-    height: 30px;
+   margin-top: 40px;
+    color: white;
+    font-size: 40px;
+    padding-left: 40%;
+    padding-bottom: 30px;
 }
 .fortdiv {
     background-color: rgb(54, 54, 146);
