@@ -56,7 +56,7 @@ h2 {
     margin: 20px 30px;
 }
 .par {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat';
 }
 nav a {
     line-height: 40px;
@@ -84,9 +84,120 @@ nav {
 .mobile {
    display: flex;
 }
+.firstdiv {
+    background-color: rgb(54, 54, 146);
+    color: white;
+    margin: 40px 30px;
+    border-radius: 5px;
+    padding-bottom: 40px;
+    
+}
 .gear {
     padding-left: 40%;
+    padding-top: 30px;
+    padding-bottom: 30px;
     font-size: 40px;
 }
-
-
+.ret {
+    padding-left: 40px;
+    font-family: 'Montserrat';
+}
+.paret {
+    padding-left: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Montserrat';
+}
+.reti {
+    padding-left:20px;
+    padding-right: 20px;
+    font-family: 'Montserrat';
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+    background-color: white;
+    text-decoration: none;
+}
+.key {
+    margin-top: 40px;
+    color: white;
+    font-size: 40px;
+    padding-left: 40%;
+    padding-bottom: 30px;
+}
+.seconddiv {
+    background-color: rgb(54, 54, 146);
+    color: white;
+    margin: 40px 30px;
+    border-radius: 5px;
+    padding-bottom: 40px;
+}
+.val {
+    padding-left: 50px;
+    font-family: 'Montserrat';
+}
+.vali {
+    padding-left: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Montserrat';  
+}
+.valid {
+    padding-left:20px;
+    padding-right: 20px;
+    font-family: 'Montserrat';
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+    background-color: white;
+    text-decoration: none; 
+}
+.thirddiv {
+    background-color: rgb(54, 54, 146);
+    color: white;
+    margin: 40px 30px;
+    border-radius: 5px;
+    padding-bottom: 40px;
+}
+.file {
+    margin-top: 40px;
+    color: white;
+    font-size: 40px;
+    padding-left: 40%;
+    padding-bottom: 30px;
+}
+.rec {
+    padding-left: 50px;
+    font-family: 'Montserrat';
+}
+.recover { 
+    padding-left: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Montserrat';  
+}
+.recovery {
+    padding-left:20px;
+    padding-right: 20px;
+    font-family: 'Montserrat';
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+    background-color: white;
+    text-decoration: none; 
+}
+.star {
+    width: 90px;
+    backgroubd-color: darkblue;
+    height: 30px;
+}
+.fortdiv {
+    background-color: rgb(54, 54, 146);
+    color: white;
+    margin: 40px 30px;
+    border-radius: 5px;
+    padding-bottom: 40px; 
+}
